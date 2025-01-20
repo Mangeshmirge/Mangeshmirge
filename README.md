@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mangesh Mirge</h1>
 <h3 align="center">Electrical Engineer with expertise in data analysis. Passionate about combining engineering knowledge with data-driven insights</h3>
-
+<img src="https://lottiefiles.com/free-animation/data-analytics-sjK66edPoS" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangeshmirge&label=Profile%20views&color=0e75b6&style=flat" alt="mangeshmirge" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
